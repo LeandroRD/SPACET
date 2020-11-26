@@ -1,0 +1,3 @@
+
+SASS
+codigo do terminal   -->  sass -w sass:Inc
